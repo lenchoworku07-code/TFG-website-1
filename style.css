@@ -1,0 +1,43 @@
+body {
+    font-family: Calibri, sans-serif;
+    font-size: 16px;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #004d00;
+    color: white;
+    padding: 20px 0;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav {
+    background-color: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: yellow;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: green;
+}
+
+section {
+    margin: 30px auto;
+    width: 80%;
+    color: yellow;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+}
